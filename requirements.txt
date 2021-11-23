@@ -1,0 +1,5 @@
+requests==2.26.0
+streamlit==0.87.0
+PyDictionary==2.0.1
+streamlit_lottie==0.0.2
+textblob==0.15.3
